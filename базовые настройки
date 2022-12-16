@@ -1,0 +1,7 @@
+define function !!tolerancedefault()
+    -- tolerance
+    tolerance offset 350
+    tolerance ratio  0.2
+    tolerance ANG  15
+    q tol opt
+endfunction
